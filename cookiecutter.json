@@ -1,0 +1,13 @@
+{
+  "template_for": "Cookiecutter",
+  "template_for_url": "TODO",
+  "project_name": "Cookiecutter {{ cookiecutter.template_for }}",
+  "repo_name": "cookiecutter-{{ cookiecutter.template_for | lower | replace(' ', '-') }}",
+  "your_name": "You",
+  "email": "you@example.com",
+  "license": "AGPLv3",
+  "github_username": "you",
+  "repo_branch": "master",
+  "repo_url": "https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}",
+  "initialize_git_repo": "Y/N"
+}

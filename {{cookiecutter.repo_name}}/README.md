@@ -11,7 +11,7 @@ Install the latest version of Cookiecutter if you haven't already:
 
 Generate a {{ cookiecutter.template_for }} project:
 
-    cookiecutter gh:{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}.git
+    cookiecutter gh:{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}
     
 ## License
 

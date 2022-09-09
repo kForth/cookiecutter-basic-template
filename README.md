@@ -12,7 +12,7 @@ Cookiecutter 1.4.0 or higher)::
 
 Generate a Python package project::
 
-    cookiecutter gh:kforth/cookiecutter-basic-template.git
+    cookiecutter gh:kforth/cookiecutter-basic-template
 
     
 ## License
